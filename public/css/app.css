@@ -262,3 +262,113 @@
     margin-bottom: 10px;
 
 }
+
+/* *section 2 end */
+/* last section */
+.sect3-title {
+    color: red;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Trebuchet MS', sans-serif;
+}
+.Touch {
+    margin-bottom: 5vh;
+    color: rgba(49,69,132,255);
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Trebuchet MS', sans-serif;
+
+}
+.form {
+    margin-left: 100px;
+    font-family: 'Gill Sans', 'Trebuchet MS';
+}
+.email-area {
+    width: 38vw;
+    height: 25px;
+    background-color: aliceblue;
+    border: none;
+    border-radius: 50px;
+}
+.subject-area{
+    width: 38vw;
+    height: 25px;
+    background-color: aliceblue;
+    border: none;  
+    border-radius: 50px;
+}
+.area{
+    width: 78vw;
+    background-color: aliceblue;
+    border: none;
+    border-radius: 50px;
+}
+.but_pos {
+    display: flex;
+    justify-content: center;
+}
+button {
+    width: 200px;
+    padding: 15px;
+    margin: 20px 0 20px 0;
+    border-radius: 20px;
+    background-color:rgba(255,57,70,255);
+    color: white;
+    border: none;
+}
+button:hover {
+    background-color: grey;
+}
+/* last section */
+
+/* Footer */
+.D-footer {
+    height: 260px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(49,69,132,255);
+}
+.ABOVE {
+    margin-bottom: 3vh;
+    color: rgb(233, 37, 37);
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Trebuchet MS', sans-serif;
+}
+.D-footer ul li {
+    list-style: none;
+    display: inline-block;
+    margin-bottom: 40px;
+    font-family: 'Gill Sans', 'Trebuchet MS', sans-serif;
+}
+.dope{
+    text-decoration: none;
+    padding: 15px;
+    margin-top: 20px;
+    color: white;
+    font-family: 'Gill Sans', 'Trebuchet MS', sans-serif;
+}
+.D-footer a {
+    text-decoration: none;
+    padding: 15px;
+    margin-top: 20px;
+    color: white;
+    font-family: 'Gill Sans', 'Trebuchet MS', sans-serif;
+}
+.D-lien {
+    margin-bottom: 15px;
+    font-size: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 10vh;
+    gap: 10px;
+    justify-content: space-evenly;
+    color: white;
+    font-family: 'Gill Sans', 'Trebuchet MS', sans-serif;
+}
+.icon-foot{
+    font-size: 25px;
+}
+footer ul{
+    font-weight: bold;
+}
+/* Footer
